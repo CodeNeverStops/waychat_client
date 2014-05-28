@@ -7,6 +7,6 @@
                   kernel,
                   stdlib
                  ]},
-  {mod, { waychat_client_app, []}},
+  {mod, { waychat_client_app, [waychat_client_sup]}},
   {env, []}
  ]}.

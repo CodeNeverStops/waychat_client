@@ -2,7 +2,7 @@
 
 -behaviour(application).
 -define(HOST, localhost).
--define(PORT, 9998).
+-define(PORT, 9999).
 
 %% Application callbacks
 -export([start/2, stop/1]).
